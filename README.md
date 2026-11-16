@@ -47,9 +47,6 @@ Für die Einleitung verwenden wir:
 * nlptown/bert-base-multilingual-uncased-sentiment
 * MoritzLaurer/mDeBERTa-v3-base-mnli-xnli
 
-Feintuning von BERT verwendet:
-* dbmdz/bert-base-german-uncased
-
 Für Embeddings nutzen wir diese Modelle:
 * multi-qa-MiniLM-L6-cos-v1
 * google/embeddinggemma-2
@@ -66,3 +63,5 @@ Bei der generativen Inferenz arbeiten wir mit diesen Modellen:
 * google/gemma-4-12B-it-assistant
 * turboderp/Qwen3.8-27B-exl3 
 * GestaltLabs/Qwen3.8-27B-DFlash-EXL3-4bit
+* ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF
+* neroued/Qwen3.8-27B-NInfer
